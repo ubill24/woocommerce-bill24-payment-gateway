@@ -51,3 +51,8 @@ Bill 24 Web Application Production Address: https://bill24.net
    
    ![WooCommerce Webhook](https://s3-ap-southeast-1.amazonaws.com/b24.web-user/woocommerce_plugin_screens/WooCommerce_webhook.jpg)
    
+ ## Noted:
+  If you download from this repository and get folder name: woocommerce-bill24-payment-gateway-master,
+  please kindly rename it to woocommerce-bill24-payment-gateway before you add it to your new plugin.
+  Thank you.
+   
